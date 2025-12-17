@@ -1,6 +1,5 @@
 package DSA-JAVA;
 
-publi {
-    //new work
+public class one {
     
 }
